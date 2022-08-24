@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 我是Aurora ✨
-- 🐧 北邮小硕
-- 🏡 作品：求星星 ✨
+## Aurora ✨
+- 🐧 北邮渣硕
 - 🌱 爱技术，爱生活 
-- 💬 微信：bupt_aurora
-- 🤔 博客：www.buptaurora.cn
+- 💬 微信：aurora_IsBeingBetter
 
 ## 汇总～ ✨
 
